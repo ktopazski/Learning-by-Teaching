@@ -20,7 +20,7 @@ const collision = {
   lockCoordinates: [],
   lockIndexes: [],
 
-  waterCollisions: [46, 110, 123, 149, 7],
+  waterCollisions: [46, 123, 149, 7],
   waterCoordinates: [],
 
   jumpCollisions: [38],
@@ -121,7 +121,7 @@ const collision = {
             type.push('lava');
           }
         } else {
-          if (map[i] === 110 || map[i] === 123 || map[i] === 149) {
+          if ( map[i] === 123 || map[i] === 149) {
             type.push('halfDown');
           } else if (map[i] === 73 || map[i] === 60 || map[i] === 47 || map[i] === 86 || map[i] === 15 || map[i] === 2 || map[i] === 157 || map[i] === 28 || map[i] === 107 || map[i] === 94 || map[i] === 81 || map[i] === 120) {
             type.push('halfUp');
