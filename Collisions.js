@@ -491,15 +491,16 @@ const collision = {
   checkWater(coordinates) {
 
     banana.waterQueue = false;
-
-    for (let i = 0; i < coordinates.length; i ++) {
-      if (this.check(coordinates[i], banana)) {
-        banana.waterQueue = true;
-        if (coordinates[i][4].includes('lava')) {
-          banana.lava = true;
+    if (!game.question.answering) {
+      for (let i = 0; i < coordinates.length; i ++) {
+        if (this.check(coordinates[i], banana)) {
+          banana.waterQueue = true;
+          if (coordinates[i][4].includes('lava')) {
+            banana.lava = true;
+          };
         };
       };
-    };
+    }
 
     if (banana.waterQueue) {
       banana.inWater = true;
