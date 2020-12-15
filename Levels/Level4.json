@@ -52,7 +52,7 @@
 
     "Redanswer": "c",
 
-    "Gold": ["Is there an order to the 3 streams? Does the policy", "have to come out last?", "", "A) Yes, policies arise reactively from problems", "B) No, 'policy entrepreneurs' can develop their", "own favored policies, monitor the situation, and", "when a relevant problem arises, they can attach", "their 'pet policies' as a solution."],
+    "Gold": ["Is there an order to the 3 streams? Does the policy", "have to come out last?", "", "A) Yes, policies arise reactively from problems.", "B) No, 'policy entrepreneurs' can develop their", "own favored policies, monitor the situation, and", "when a relevant problem arises, they can attach", "their 'pet policies' as a solution."],
 
     "Goldanswer": "b"
   }
