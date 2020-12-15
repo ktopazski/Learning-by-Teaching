@@ -1,0 +1,60 @@
+
+{
+  "doors": [
+    {"coordinates": [648, 720, 0, 0], "needKey": false, "goBack": true, "up": true, "level": 5}, {"coordinates": [1098, 1134, 520, 530, []], "spawnX": 198.3751697106893, "spawnY": 321.1111111111111, "needKey": true, "level": 7}
+  ],
+
+  "worldMap": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, 39, 0, 39, -1, -1, 73, 60, 47, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, 161, -1, -1, 86, -1, -1, -1, -1, 73, 60, 47, -1, 
+  -1, -1, -1, -1, 161, 73, 47, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  0, 91, -1, -1, 161, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 74,
+  -1, 71, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 87,
+  111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 111, 156, 97, 156, 111, 111,
+  164, 164, 164, 164, 164, 164, 164, 164, 164, 164, 164, 46, 46, 46, 164, 164],
+
+  "itemsMap": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 2, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  41, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 49, -1, -1, -1],
+
+  "enemies": [
+  ],
+
+  "text": [
+    ["Now comes the last ", "stream--the policy", "stream. To get a ", "problem or policy on the", "agenda you actually"],
+
+    ["need a solution, or.", "a policy proposal.", "Otherwise, legislators", "won't know what to", "do about the problem"],
+
+    ["and interest will die.", "This stream is primarily", "the work of the 'policy", "community': academics,", "think tanks, interest"], 
+
+    ["groups, bureaucrats,", "you name it. Ideas are", "pooled and the ","most feasible", "(politically, economically,"],
+    
+    ["etc.) is favored. Alrighty.", "Now let's find some", "policies for my problem!"]
+    
+    ],
+
+  "instructionsPresent": true,
+
+  "questions": {
+
+    "Blue": ["What is one possibly policy idea to address my", "village's fungal disease?", "", "A) Increase taxes on the banana folk", "B) Establish a commission to obtain data on accidental deaths in the village","C) Subsidize the citrus industry in the village", "D) Establish public grants for scientific researchers", "investigating a possible antifungal therapy"],
+
+    "Blueanswer": "d",
+
+    "Red": ["Which of the following would pose the greatest political challenge to our policy", "idea?", "","A) Lobbying from a civil liberties interest group", "B) Recent swing of the political pendulum to the right", "C) Countywide mood of distrust towards the scientific community", "D) Rising sentiment of xenophobia amongst banana denizens"],
+
+    "Redanswer": "c",
+
+    "Gold": ["Is there an order to the 3 streams? Does the policy", "have to come out last?", "", "A) Yes, policies arise reactively from problems", "B) No, 'policy entrepreneurs' can develop their", "own favored policies, monitor the situation, and", "when a relevant problem arises, they can attach", "their 'pet policies' as a solution."],
+
+    "Goldanswer": "b"
+  }
+
+}
