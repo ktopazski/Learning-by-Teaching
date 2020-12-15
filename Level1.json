@@ -38,7 +38,7 @@
   "instructionsPresent": true,
 
   "questions": {
-    "Gold": ["Just to make sure you're paying attention: what", "are the three streams in the multiple streams theory?", "(press the correct answer choice on your keyboard)", "", "A) Bananas, oranges, and strawberries", "B) Executive, legislative, and judicial", "C) Problem, policy, and politics", "C) City, county, and country"],
+    "Gold": ["Just to make sure you're paying attention: what", "are the three streams in the multiple streams theory?", "(press the correct answer choice on your keyboard)", "", "A) Bananas, oranges, and strawberries", "B) Executive, legislative, and judicial", "C) Problem, policy, and politics", "D) City, county, and country"],
 
     "Goldanswer": "c"
   }

@@ -25,7 +25,7 @@ congratulations.src = 'Images/Congratulations.png'
 
 const game = {
 
-  level: 1,
+  level: 2,
 
   music: true,
 
@@ -209,7 +209,8 @@ const game = {
   canvas.addEventListener('mousemove', game.hovering);
   canvas.addEventListener('click', game.clicking);
 
-  game.goBack = game.reversible = false;
+  game.question.answering = false
+  game.question.display = false
  
   /*
   window.addEventListener("resize", display.resize);
