@@ -1,0 +1,60 @@
+
+{
+  "doors": [
+    {"coordinates": [1008, 1080, 266, 338], "spawnX": -27.9069767, "spawnY": 321.11111111111111111111111, "needKey": true, "level": 4}
+  ],
+
+  "worldMap": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  111, 111, 111, 111, 111, 111, 8, -1, -1, -1, -1, -1, -1, -1, -1, -1, 
+  -1, 161, 105, -1, 164, 164, 163, 111, 112, -1, -1, -1, -1, -1, -1, 74,
+  111, 161, 111, 111, 164, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 87, 
+  164, 161, 164, 164, 164, -1, -1, -1, -1, -1, -1, -1, -1, -1, 73, 60, 
+  -1, 161, -1, -1, -1, -1, -1, 111, 111, 111, 111, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, 111, 164, 164, -1, 71, -1, -1, -1, -1, -1,
+  111, 111, 110, 110, 110, 110, 164, 164, 164, 164, 164, -1, 73, 60, 47, -1,
+  111, 111, 111, 46, 46, 46, 164, 164, 164, 164, 164, -1, -1, -1, -1, -1],
+
+  "itemsMap": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 8, 9, -1, -1, -1, -1, 
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  5, -1, -1, 49, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, 40, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  18, -1, -1, -1, -1, -1, -1, -1, -1, 41, -1, -1, 5, 38, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, 38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
+
+  "enemies": [],
+
+  "text": [
+    ["Now Let's talk about", "the politics stream.", "You need political support", "to get a problem on the", "legislative agenda."],
+    
+    ["You need to obtain", "governmental majorities,", "build coalitions, and", "organize your political", "resources."],
+
+    ["The national 'mood'", "regarding certain issues", "or political ideologies", "in general influence", "this stream."],
+
+    ["For example, the", "death of George Floyd", "threw the United States", "into a 'mood' receptive to", "civil rights issues."],
+
+    ["Now that you know", "a little about the", "politics stream, let's", "get those keys!"]
+    
+    ],
+
+  "instructionsPresent": true,
+
+  "questions": {
+
+    "Green": ["What would be one political condition conducive", "to my success in getting the banana council", "to pay attention to my village's fungal problem?", "", "A) Newly elected council members ran on a platform of health policy reform", "B) A banana drowns on national television; onlookers are mortified", "C) The banana magistrate is replaced by a young banana interested in economic reform", "D) A new interest group arises advocating for increased minimum wage for banana farmers"],
+
+    "Greenanswer": "a",
+
+    "Red": ["Which of the following entities' support would be helpful", "in getting my problem on the agenda?", "","A) Banana magistrate (executive branch head)", "B) Banana council members", "C) Powerful banana interest groups (so-called", "binterest groups)", "D) All of the above"],
+
+    "Redanswer": "d",
+
+    "Gold": ["What factors could hold my problem back from gaining", "political traction?", "", "A) Banana constituents do not know anything about the issue", "B) Powerful banana interest groups are advocating for other issues", "C) Wealthy bananas are threatening to withdraw donations if", "funding is diverted from their interests", "D) All of the above"],
+
+    "Goldanswer": "d"
+  }
+  
+
+}

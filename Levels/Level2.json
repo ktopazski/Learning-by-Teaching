@@ -1,0 +1,63 @@
+{
+  "doors": [
+    {"coordinates": [1026, 1062, 280, 300], "spawnX": -27.9069767, "spawnY": 33, "needKey": true, "level": 3}
+  ],
+
+  "worldMap": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 
+  -1, -1, -1, -1, -1, -1, -1, 3, 0, 3, -1, -1, -1, -1, 74, -1,
+   -1, 156, 156, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 87, -1, 
+   143, -1, 71, 97, -1, -1, -1, -1, -1, -1, -1, -1, -1, 73, 60, 47, 
+   73, 60, 60, 60, 60, 47, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 
+   -1, -1, -1, -1, -1, -1, -1, 111, 111, 111, 111, 111, 110, 110, 110, 110,
+  111, 111, 111, 111, 111, 111, 111, 164, 164, 164, 164, 164, 46, 46, 46, 46, 
+  164, 164, 164, 164, 164, 164, 164, 164, 164, 164, 164, 164, 46, 46, 46, 46],
+
+  "itemsMap": [0, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 
+  -1, -1, -1, -1, -1, -1, -1, -1, 2, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, 41, -1, -1, 38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+  -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 49, -1],
+
+  "enemies": [],
+
+  "text": [
+    ["Let's talk about the", "problem stream. A", "condition must be a", "problem before it or a", "solution can be talked"],
+    
+    ["about by people in", "government. This happens", "through 'focusing events'.", "For example, a natural", "disaster could cause"],
+
+    ["legislators to seriously", "seriously consider climate", "change as a problem."],
+
+    ["Feedback from bureaucrats", "or constituents could","also be a focusing event.", "So could clashes with norms", "and values. Even though"],
+    
+    ["few people are on", "welfare, it became", "an issue when people", "decided it wasn't"," very 'American'"],
+
+    ["because it didn't reward", "'hard work'."],
+
+    ["Let's see if we can", "apply this knowledge", "to finding", "a solution to my", "village's fungal outbreak."],
+
+    ["Let's get those keys!"]
+    
+    ],
+  "instructionsPresent": true,
+
+  "questions": {
+
+    "Blue": ["What kind of a focusing event is applicable to my", "fungal out break?", "", "A) National embarrassment", "B) Feedback", "C) Natural disaster", "D) Clashes with norms and values"],
+
+    "Blueanswer": "c",
+
+    "Red": ["What is the best example of a 'problem' in the", "United States whose focusing event was a moment", "of national embarrassment?", "","A) Global warming", "B) Civil Rights Movement", "C) Oil shortage", "D) Nuclear energy"],
+
+    "Redanswer": "b",
+
+    "Gold": ["Does the appearance of a problem stream imply", "that there was no problem before?", "", "A) Yes, because if there had been, it would have been", "on the agenda.", "B) No; just because a problem existed before", "doesn't mean it was on the legislative agenda.", "It has to register as a problem on policymakers' minds."],
+
+    "Goldanswer": "b"
+  }
+
+}
