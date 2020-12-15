@@ -25,7 +25,7 @@ congratulations.src = 'Images/Congratulations.png'
 
 const game = {
 
-  level: 2,
+  level: 1,
 
   music: true,
 
